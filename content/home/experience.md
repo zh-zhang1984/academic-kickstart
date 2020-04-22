@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Physician"
   company = "Sir Run Run Shaw hospital"
-  company_url = ""
+  company_url = "http://www.srrsh.com/"
   location = "Hangzhou"
   date_start = "2016-10-01"
   date_end = ""
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Fellow physician"
   company = "Jinhua Municipal central hospital"
-  company_url = ""
+  company_url = "http://www.jhzxyy.cn/"
   location = "Jinhua"
   date_start = "2009-07-01"
   date_end = "2016-10-01"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   Responsibilities include: 
   
   * Clinical research
-  * Patient maangement
+  * Patient management
   * Critical Care
   * Emergency Medicine
   """
