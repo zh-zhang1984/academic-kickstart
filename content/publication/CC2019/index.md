@@ -59,8 +59,8 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Oliguria.png"
-  focal_point: "Smart"
+  caption: "Oliguria"
+  focal_point: "Bottom"
   preview_only: false
 
 # Associated Projects (optional).
