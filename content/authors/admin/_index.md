@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include critical care, sepsis, acute respiratory distress syndrome.
+bio: My research interests include critical care, sepsis, acute respiratory distress syndrome. I am particularly interested in using electronic healthcare records to gain knowledge for patient managment.
 
 interests:
 - Critical Care Medicine
@@ -44,13 +44,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:zh_zhang1984@zju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+- icon: weixin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://weixin.qq.com
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Zhongheng_Zhang
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2336-5323
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/239344/zhongheng-zhang/
 - icon: github
   icon_pack: fab
   link: https://github.com/zh-zhang1984
