@@ -27,9 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include: 
   
-  * Analysing
+  * Big data study
+  * Causal inference
   * Modelling
-  * Deploying
+  * Machine learning
   """
 
 [[experience]]
@@ -39,6 +40,13 @@ date_format = "Jan 2006"
   location = "Jinhua"
   date_start = "2009-07-01"
   date_end = "2016-10-01"
-  description = """Clinical work to have residence and Fellow training"""
+  description = """
+  Responsibilities include: 
+  
+  * Clinical research
+  * Patient maangement
+  * Critical Care
+  * Emergency Medicine
+  """
 
 +++
