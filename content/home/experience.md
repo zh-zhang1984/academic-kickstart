@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Hangzhou"
   date_start = "2016-10-01"
   date_end = ""
-  description = """
+  description = "Big data Clinical study"
   Responsibilities include: 
   
   * Analysing
