@@ -46,7 +46,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ccforum.biomedcentral.com/track/pdf/10.1186/s13054-019-2411-z
 url_code:
 url_dataset:
 url_poster:
