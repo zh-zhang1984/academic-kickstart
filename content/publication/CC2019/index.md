@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care"
-authors: [Zhongheng Zhang]
+authors: [Zhongheng Zhang; Kwok M. Ho; Yucai Hong ]
 date: 2020-04-22T17:00:07+08:00
 doi: "10.1186/s13054-019-2411-z"
 
@@ -59,8 +59,8 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Oliguria.png"
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
