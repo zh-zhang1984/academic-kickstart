@@ -20,29 +20,25 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Physician"
   company = "Sir Run Run Shaw hospital"
-  company_url = "http://www.srrsh.com/"
+  company_url = ""
   location = "Hangzhou"
   date_start = "2016-10-01"
   date_end = ""
-  description = "Big data Clinical study"
+  description = """
   Responsibilities include: 
   
   * Analysing
   * Modelling
-  * Clinical Research
+  * Deploying
   """
 
 [[experience]]
   title = "Fellow physician"
   company = "Jinhua Municipal central hospital"
-  company_url = "http://www.jhzxyy.cn/"
+  company_url = ""
   location = "Jinhua"
   date_start = "2009-07-01"
   date_end = "2016-10-01"
   description = """Clinical work to have residence and Fellow training"""
-  Responsibilities include: 
-  
-  * Clinical work
-  * Clinical study
-  * Research
+
 +++

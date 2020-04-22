@@ -14,7 +14,7 @@ role: Emergency Physician
 
 # Organizations/Affiliations
 organizations:
-- name: Sir Run Run Shaw Hospital, Zhejiang University School of Medicine
+- name: Zhejiang University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -78,4 +78,4 @@ user_groups:
 
 Zhongheng Zhang is a emergency physician working at the Department of emergency medicine, Sir Run-Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou China. He is a member of the Zhejiang society of evidence based medicine and epidemiology.
 
-章仲恒目前在浙江大学医学院附属邵逸夫医院工作，主要从事临床医学大数据研究，擅长利用电子病历大数据进行建模分析，熟练掌握单因素分析、多元回归、生存分析等。发表SCI论文50多篇，被引用3000多次，曾应邀在SCCM大会发言。
+章仲恒目前在浙江大学医学院附属邵逸夫医院工作，主要从事临床医学大数据研究.
