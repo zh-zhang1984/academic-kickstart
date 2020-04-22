@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-featured = true
+
 title: "Mechanical Power Normalized to Predicted Body Weight as a Predictor of Mortality in Patients With Acute Respiratory Distress Syndrome"
 authors: [Zhongheng Zhang, Bin Zheng, Nan Liu, Huiqing Ge, Yucai Hong]
 date: 2020-04-22T17:00:07+08:00
@@ -32,7 +32,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
