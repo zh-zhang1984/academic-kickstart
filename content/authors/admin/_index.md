@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include critical care, sepsis, acute respiratory distress syndrome.
 
 interests:
-- critical care medicine
-- artificial intelligence
-- clinical studies
+- Critical Care Medicine
+- Artificial Intelligence
+- Clinical Studies
 
 education:
   courses:
