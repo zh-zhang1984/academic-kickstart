@@ -31,7 +31,9 @@ output:
 <p style="font-family: SimSun, serif; font-size:14pt">
 废话不说进入正题。
 </p>
-# CBCgrps快速上手
+
+# CBCgrps快速上手  
+
 ## 安装程辑包
 这个步骤很简单，只需要下面的两句即可：
 
@@ -46,6 +48,7 @@ output:
 <p style="font-family: SimSun, serif; font-size:14pt">
 如果安装不成功可能要设置镜像，或者是手动从CRAN官网下载后手动安装。
 </p>
+
 ## 进行简单的两组间比较
 
 ```r
@@ -105,6 +108,7 @@ output:
 <p style="font-family: SimSun, serif; font-size:14pt">
 这里的核心函数为*twogrps()*，进行两组间比较，该函数最主要的赋值为一个待分析的数据框*dt*和分组变量*mort*，数据框中除了分组变量外，其它变量都进行组间比较。得出的表格用*print*函数来显示，注意别忘了加上*quote=T*，这样显示出来就是包含双引号的，方便后续直接黏贴到MS Word上，再用**文字转化成表格**功能进行快速制表。
 </p>
+
 ## 多组的比较
 <p style="font-family: SimSun, serif; font-size:14pt">
 多组间比较我们换成了*multigrps()*函数，里面的参数赋值与前面完全一样。
@@ -150,6 +154,7 @@ output:
 <p style="font-family: SimSun, serif; font-size:14pt">
 这样我们就完成了表格的制作，是不是特别简单？接下来我们再进一步体会一下*CBCgrps*其它有用的功能。
 </p>
+
 # 需要选择性比较变量
 <p style="font-family: SimSun, serif; font-size:14pt">
 很多时候并不是所有的变量都要进行比较，这时候我们可以选择一部分变量进行比较，同时可以调整变量在表格中的显示顺序，用*varlist*参数实现该功能。
@@ -374,6 +379,7 @@ output:
 ## $VarExtract
 ## [1] "age"  "lac"  "type" "vaso" "crp"
 ```
+
 # 显示统计量
 <p style="font-family: SimSun, serif; font-size:14pt">
 国内很多杂志要求显示统计量（如T值、F值等），但国外好像还没碰到这样的杂志，一般只要求显示p值即可。不管怎样，对于*CBCgrps*来说也是so easy！</p>
