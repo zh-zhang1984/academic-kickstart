@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "正在进行的项目"
 
 [content]
   # Page type to display. E.g. project.
@@ -74,4 +74,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 正在进行的项目
