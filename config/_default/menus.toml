@@ -30,8 +30,9 @@
 
 [[main]]
   name = "My Widget Page"  # Title of the link.
-  url = "landing/"  # Widget Page folder name.
+  url = "Landing/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
