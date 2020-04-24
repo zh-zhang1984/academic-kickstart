@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Posts have a change
 
 # View.
 #   1 = List
