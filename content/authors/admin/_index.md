@@ -72,8 +72,7 @@ email: "zh_zhang1984@zju.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Administration
 ---
 
 Zhongheng Zhang is a emergency physician working at the Department of emergency medicine, Sir Run-Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou China. He is a member of the Zhejiang society of evidence based medicine and epidemiology.
