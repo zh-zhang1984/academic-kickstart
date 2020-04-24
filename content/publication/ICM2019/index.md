@@ -28,10 +28,10 @@ Results: A total of 5159 patients with acute onset ARDS were included for analys
 Conclusions: The study showed that norMP was a good ventilator variable associated with mortality, and its predictive discrimination cannot be further improved with a sophisticated machine learning method. Further experimental trials are needed to investigate whether adjusting ventilator variables according to norMP will significantly improve clinical outcomes."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "呼吸功在ARDS中的预测价值"
 
-tags: []
-categories: []
+tags: ["ARDS"]
+categories: ["clinical study"]
 featured: true
 
 # Custom links (optional).
@@ -58,7 +58,8 @@ image:
   caption: "Mechanical Power"
   focal_point: "Bottom"
   preview_only: false
-
+  alt_text: An optional description of the image for screen readers.
+  
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

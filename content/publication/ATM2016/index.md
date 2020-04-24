@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Univariate Description and Bivariate Statistical Inference: The First Step Delving Into Data"
-authors: [Zhongheng Zhang]
+subtitle: "单因素分析"
+authors: ["admin"]
 date: 2020-04-22T17:00:07+08:00
 doi: "10.21037/atm.2016.02.11"
 
@@ -22,10 +23,10 @@ publication_short: "ATM"
 abstract: "In observational studies, the first step is usually to explore data distribution and the baseline differences between groups. Data description includes their central tendency (e.g., mean, median, and mode) and dispersion (e.g., standard deviation, range, interquartile range). There are varieties of bivariate statistical inference methods such as Student's t-test, Mann-Whitney U test and Chi-square test, for normal, skews and categorical data, respectively. The article shows how to perform these analyses with R codes. Furthermore, I believe that the automation of the whole workflow is of paramount importance in that (I) it allows for others to repeat your results; (II) you can easily find out how you performed analysis during revision; (III) it spares data input by hand and is less error-prone; and (IV) when you correct your original dataset, the final result can be automatically corrected by executing the codes. Therefore, the process of making a publication quality table incorporating all abovementioned statistics and P values is provided, allowing readers to customize these codes to their own needs."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "介绍单因素分析R语言代码"
 
-tags: []
-categories: []
+tags: ["大数据","方法学"]
+categories: ["方法学"]
 featured: false
 
 # Custom links (optional).
