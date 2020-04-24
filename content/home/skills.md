@@ -14,9 +14,9 @@ subtitle = "我掌握的技能"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 [[feature]]
-  icon = "fa-clinic-medical"
+  icon = "clinic-medical"
   icon_pack = "fas"
-  name = "Clinical"
+  name = "Clinical Med"
   description = "80%"
 
 [[feature]]
@@ -32,7 +32,7 @@ subtitle = "我掌握的技能"
   description = "80%"  
   
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "10%"
