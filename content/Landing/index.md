@@ -2,6 +2,5 @@
 title: "呼吸机波形分析"
 summary: "Hello!"
 date: 2020-04-24T15:00:15+08:00
-draft: true
 type: "widget_page"
 ---
