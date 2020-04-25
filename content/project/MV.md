@@ -5,7 +5,7 @@ summary: "采用深度学习方法识别人机不同步，探讨各种临床因�
 tags: ["大数据","临床研究"]
 categories: ["呼吸力学研究"]
 featured: false
-author: ["admin"]
+author: 章仲恒
 ---
-* dfdfdf
-* fgttttt
+* 深度学习识别各种人机不同步
+* 探讨各种临床因素（镇静镇痛药物、呼吸机模式、昼夜时间）对人机不同步的影响
