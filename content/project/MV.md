@@ -1,8 +1,7 @@
-external_link: "http://external-project.com"
 ---
 title: "MV"
 date: 2020-04-25T09:25:32+08:00
-draft: true
+author: [admin]
 ---
 * dfdfdf
 * fgttttt
