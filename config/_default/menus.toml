@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "教程"
+  name = "Tutorials"
   url = "#posts"
   weight = 20
 
@@ -29,8 +29,8 @@
   weight = 60
 
 [[main]]
-  name = "Landing"  # Title of the link.
-  url = "Landing/"  # Widget Page folder name.
+  name = "Society"  # Title of the link.
+  url = "学术团体/"  # Widget Page folder name.
   weight = 100  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
